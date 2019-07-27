@@ -14,7 +14,7 @@ def hello_test():
 
 
 @app.route("/bb")
-def hello_test():
+def hello_test2():
     return 'dear羊！ 俺想你'
 
 
